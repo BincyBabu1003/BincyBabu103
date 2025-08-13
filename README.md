@@ -33,6 +33,6 @@ I specialize in **computer vision**, **anomaly/defect detection**, and **predict
 ---
 
 📫 **Get in touch:**  
-[LinkedIn](https://www.linkedin.com/in/bincy-babu10) • [Email](bincyjoby1209@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bincy-babu10) • [Email](mailto:bincyjoby1209@gmail.com)
 
 > I enjoy building clear, reproducible projects with strong problem statements and measurable results.
